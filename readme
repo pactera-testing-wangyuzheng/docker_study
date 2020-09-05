@@ -1,7 +1,13 @@
 This repository will save the memo of studying docker
 
+At first to create patch-1 branch and 
+write the temporary vesion,
+when that is proofed ok 
+then merge into the master.
+
 1.1 what is docker
 1.2 how to install and setting
 1.3 how to user
 1.4 example
 1.5 project experince
+
