@@ -5,6 +5,8 @@ write the temporary vesion,
 when that is proofed ok 
 then merge into the master.
 
+patch-2 branch was created that is just for test
+
 1.1 what is docker
 1.2 how to install and setting
 1.3 how to user
